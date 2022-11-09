@@ -1,0 +1,37 @@
+.App {
+  background-color: slategray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.App h2 {
+  color: tomato;
+  font-size: large;
+
+}
+
+.link {
+  color: red;
+  text-decoration: none;
+}
+
+.link:hover {
+  background-color: red;
+  color: white
+}
+
+.relogio {
+  font-size: 50px;
+  color: slateblue;
+}
+
+.perfil {
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.youtube {
+  max-width: 400px;
+}
